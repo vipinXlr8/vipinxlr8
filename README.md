@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vipin Mishra</h1>
-<h3 align="center">🌟 Passionate Frontend Enthusiast | JavaScript Maestro | Accessibility Advocate 🌟 👋 a dedicated frontend developer with a knack for crafting immersive user experiences and a strong command of JavaScript. With a keen eye for detail and a passion for accessibility, I strive to create web applications that are not only visually stunning but also inclusive and user-friendly for all. 💻 Armed with a solid foundation in modern web technologies, I specialize in building dynamic and responsive interfaces that engage users and drive meaningful interactions. Whether it's crafting pixel-perfect designs or optimizing performance, I thrive on pushing the boundaries of frontend development to deliver exceptional results. 🔍 Beyond writing code, I'm deeply committed to promoting accessibility best practices and ensuring that digital experiences are accessible to everyone, regardless of their abilities. I firmly believe that technology should be empowering and strive to advocate for inclusivity in all my projects. 🚀 Let's connect and collaborate on creating impactful frontend solutions that elevate user experiences and make the web a more accessible place for all!</h3>
+<h3 align="center">🌟 Passionate Frontend Enthusiast | JavaScript Maestro | Accessibility Advocate 🌟 
+👋 a dedicated frontend developer with a knack for crafting immersive user experiences and a strong command of JavaScript. With a keen eye for detail and a passion for accessibility, I strive to create web applications that are not only visually stunning but also inclusive and user-friendly for all. 
+💻 Armed with a solid foundation in modern web technologies, I specialize in building dynamic and responsive interfaces that engage users and drive meaningful interactions. Whether it's crafting pixel-perfect designs or optimizing performance, I thrive on pushing the boundaries of frontend development to deliver exceptional results. 
+🔍 Beyond writing code, I'm deeply committed to promoting accessibility best practices and ensuring that digital experiences are accessible to everyone, regardless of their abilities. I firmly believe that technology should be empowering and strive to advocate for inclusivity in all my projects. 
+🚀 Let's connect and collaborate on creating impactful frontend solutions that elevate user experiences and make the web a more accessible place for all!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinxlr8&label=Profile%20views&color=0e75b6&style=flat" alt="vipinxlr8" /> </p>
 
@@ -14,7 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/x1r8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x1r8" height="30" width="40" /></a>
-<a href="https://instagram.com/xl.r.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xl.r.8" height="30" width="40" /></a>
+<a href="https://instagram.com/xl.r.8" target="blank"><img align="center" src
+="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xl.r.8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
