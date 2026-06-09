@@ -1,4 +1,3 @@
-[![An image of @vipinxlr8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vipinxlr8)](https://holopin.io/@vipinxlr8)
 <h1 align="center">Hi 👋, I'm Vipin Mishra</h1>
 <h3 align="center">🌟 Passionate Frontend Enthusiast | JavaScript Maestro | Accessibility Advocate 🌟 </h3>
 <p>👋 a dedicated frontend developer with a knack for crafting immersive user experiences and a strong command of JavaScript. With a keen eye for detail and a passion for accessibility, I strive to create web applications that are not only visually stunning but also inclusive and user-friendly for all. </p>
